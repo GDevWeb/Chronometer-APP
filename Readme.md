@@ -1,11 +1,12 @@
-# Chronomètre
+# Application Chronomètre
 
 Bienvenue sur Chrono APP, une application simple pour mesurer le temps avec style. Utilisez ce chronomètre élégant pour suivre le temps écoulé. Profitez également des fonctionnalités de démarrage, d'arrêt et de réinitialisation.
 
 ## Table des matières
-- [Chronomètre](#chronomètre)
+- [Application Chronomètre](#application-chronomètre)
   - [Table des matières](#table-des-matières)
   - [Aperçu](#aperçu)
+  - [Démo](#démo)
   - [Technologies utilisées](#technologies-utilisées)
   - [Comment utiliser](#comment-utiliser)
   - [Installation](#installation)
@@ -16,6 +17,9 @@ Bienvenue sur Chrono APP, une application simple pour mesurer le temps avec styl
 
 ## Aperçu
 ![Aperçu de l'application](screen.png)
+
+## Démo
+![Démo live de l'application](https://simple-chronometer-app.vercel.app/)
 
 ## Technologies utilisées
 - HTML
