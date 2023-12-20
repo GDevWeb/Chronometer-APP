@@ -19,7 +19,7 @@ Bienvenue sur Chrono APP, une application simple pour mesurer le temps avec styl
 ![Aperçu de l'application](screen.png)
 
 ## Démo
-![Démo live de l'application](https://simple-chronometer-app.vercel.app/)
+[Démo live de l'application](https://simple-chronometer-app.vercel.app/)
 
 ## Technologies utilisées
 - HTML
