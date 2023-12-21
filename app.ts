@@ -1,6 +1,4 @@
-// 3. **Chronomètre :**
-//    Implémentez un chronomètre simple en TypeScript. Utilisez le DOM pour afficher le temps écoulé et ajoutez des boutons pour démarrer, arrêter et réinitialiser le chronomètre.
-
+// **Chronomètre :**
 // Variables :
 //   Buttons :
 const startButton: HTMLInputElement | null =
